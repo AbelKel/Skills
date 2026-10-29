@@ -70,7 +70,7 @@ The `clean-code` skill was inspired by **Robert C. Martin's _Clean Code: A Handb
 
 **Source:** Robert C. Martin and contributors, *Clean Code: A Handbook of Agile Software Craftsmanship*, first edition, ISBN **978-0-13-235088-4**. See the [publisher's book page](https://www.informit.com/store/clean-code-a-handbook-of-agile-software-craftsmanship-9780132350884).
 
-Credit for the source book and its ideas belongs to its authors. The skill's instructions and examples are original adaptations prepared by AbelKel, informed by that reading; they are not copied book text, code listings, or a replacement for the book.
+Credit for the source book and its ideas belongs to its authors. The skill's instructions and examples are original adaptations, informed by that reading; they are not copied book text, code listings, or a replacement for the book.
 
 The book PDF is not included or needed to use the skill. This is an independent project, not an official companion or an endorsement by the book's authors or publisher. The book remains subject to its own copyright and licensing terms.
 
