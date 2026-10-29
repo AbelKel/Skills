@@ -1,0 +1,18 @@
+.env
+.env.*
+!.env.example
+
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.swp
+*.swo
+*~
+*.log
+
+# Local agent session data is not part of a published skill.
+.copilot/session-state/
+.copilot/logs/
+
+# Source books are references, not redistributable repository assets.
+*.pdf

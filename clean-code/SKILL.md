@@ -1,6 +1,7 @@
 ---
 name: clean-code
 description: Guides writing, reviewing, and refactoring code for readability, cohesion, explicit behavior, and maintainability. Use when writing, reviewing, or refactoring code in any repository, including feature implementation, code review, readability improvements, and behavior-preserving cleanup; apply by default without requiring an explicit clean-code request.
+license: MIT
 ---
 
 # Clean Code
@@ -84,6 +85,8 @@ For an original before/after example and judgment calls, see [EXAMPLES.md](EXAMP
 
 ## Source and adaptation
 
-Source: the user's attached full-book PDF of *Clean Code: A Handbook of Agile Software Craftsmanship*, Robert C. Martin and contributors, ISBN 978-0-13-235088-4. The deeper guide draws on its design, testing, boundary, concurrency, worked-refactoring, and heuristic discussions.
+Source inspiration: *[Clean Code: A Handbook of Agile Software Craftsmanship](https://www.informit.com/store/clean-code-a-handbook-of-agile-software-craftsmanship-9780132350884)*, by **Robert C. Martin and contributors**, first edition, ISBN 978-0-13-235088-4. The deeper guide draws on its design, testing, boundary, concurrency, worked-refactoring, and heuristic discussions.
 
-These are original, selective operational instructions, not copied book text, code listings, or a chapter-by-chapter substitute. The PDF is not bundled or required at runtime. Language-specific practices and project evidence take precedence over rigid interpretations of the book's heuristics.
+These are original, selective operational instructions, not copied book text, code listings, or a chapter-by-chapter substitute. The book is not bundled or required at runtime. This independent adaptation is not endorsed by the book's authors or publisher. Language-specific practices and project evidence take precedence over rigid interpretations of the book's heuristics.
+
+The original skill instructions and examples are distributed under the [MIT License](LICENSE). That license does not apply to the source book, which remains subject to its own copyright and licensing terms.
